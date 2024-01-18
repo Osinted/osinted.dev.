@@ -10,8 +10,7 @@ theme = "hugo-theme-shell"
     [Params.Tree]
     use = true
     files = [
-        ["C/C++", "https://www.example.com/"],
-        ["Python", "https://www.example.com/"],
-        ["Go", "/works/go.md"],
-        ["Hugo", "/works/hugo.md"]
+        ["Github", "https://github.com/Osinted"],
+        ["YouTube", "https://www.youtube.com/channel/UC-_K-0EFqSy-NaSxqRp0-SA"],
+        ["Discord", "https://discord.dog/osint"]
     ]
